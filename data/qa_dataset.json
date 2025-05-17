@@ -1,0 +1,27 @@
+[
+    {
+        "context": "Hugging Face provides pre-trained models and APIs for NLP tasks.",
+        "question": "What does Hugging Face provide?",
+        "answer": "Pre-trained models and APIs for NLP tasks."
+    },
+    {
+        "context": "LangChain is an open-source library for chaining LLMs together.",
+        "question": "What is LangChain used for?",
+        "answer": "Chaining LLMs for advanced AI applications."
+    },
+    {
+        "context": "PyTorch Lightning simplifies training code and improves scalability.",
+        "question": "What does PyTorch Lightning do?",
+        "answer": "Simplifies training code and improves scalability."
+    },
+    {
+        "context": "FAISS is a library for efficient similarity search and clustering of dense vectors.",
+        "question": "What is FAISS used for?",
+        "answer": "Efficient similarity search and clustering of dense vectors."
+    },
+    {
+        "context": "FastAPI is a modern, fast web framework for building APIs with Python 3.6+.",
+        "question": "What is FastAPI?",
+        "answer": "A modern, fast web framework for building APIs with Python."
+    }
+]

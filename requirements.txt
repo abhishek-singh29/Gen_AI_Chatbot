@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+fastapi
+uvicorn
+faiss-cpu
+langchain
+streamlit
+requests
+sentence-transformers
+bitsandbytes
+tensorboard
+scikit-learn
