@@ -31,7 +31,7 @@ This is an AI-powered Question Answering chatbot built with Hugging Face Transfo
 
 
 * Note- Please change the path as per requirement
-How to Run the Project
+How to Run the Project :
 1. ✅ Clone the repository
 
 git clone https://github.com/abhishek-singh29/GEN_AI-CHATBOT.git
